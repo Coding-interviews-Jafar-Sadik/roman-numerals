@@ -35,7 +35,7 @@ MCMXLIV       | 1944
 MCMXCIV       | 1994 
 MMVI          | 2006 
 
-# Kata
+## Kata
 
 Implement the `public int convert(String value)` method in RomanNumeralConverter.java
 
